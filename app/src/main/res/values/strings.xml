@@ -6,4 +6,7 @@
     <string name="e_mail">E-mail</string>
     <string name="password">Password</string>
     <string name="log_in">Log in</string>
+    <string name="what_brings_you">What Brings you</string>
+    <string name="to_silent_moon">to Silent Moon?</string>
+    <string name="choose_a_topic_to_focuse_on">choose a topic to focuse on:</string>
 </resources>
